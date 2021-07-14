@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="images/salim-logo.png" />
+  <img src="images/salim-logo.png" width="300" />
   <br>
 </p>
 
