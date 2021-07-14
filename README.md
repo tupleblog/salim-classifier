@@ -43,3 +43,11 @@ classifier(text)
 - รัฐรับผิดชอบทุกชีวิตไม่ได้หรอกคนให้บริการต้องจัดการเองถ้าจะเปิดผับบาร์
 
 ทางทีมงานกำลังเขียนแอพพลิเคชั่นเพื่อให้สามารถนำไปใช้งานได้ง่ายยิ่งขึ้น
+
+## Performance
+
+We report performance on 20% evaluation set (accuracy, precision, recall, F1-score macro) as follows:
+
+| Accuracy | Precision | Recall |   F1   |
+| -------- | --------- | ------ | ------ |
+| 75.54%   | 75.13%    | 74.78%  | 74.92%  |
