@@ -50,4 +50,4 @@ We report performance on 20% evaluation set (accuracy, precision, recall, F1-sco
 
 | Accuracy | Precision | Recall |   F1   |
 | -------- | --------- | ------ | ------ |
-| 75.54%   | 75.13%    | 74.78%  | 74.92%  |
+| 86.15%   | 86.12%    | 86.13%  | 86.13% |
